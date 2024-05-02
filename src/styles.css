@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calendarDayTile {
+    padding: 0.7em;
+    border-radius: 0.45em;
+}
+
+.calendarDayTile:hover {
+    background-color: #fb6161;
+    color: white;
+}
+
+.slider-range {
+    background-color: #af5a58;
+}
